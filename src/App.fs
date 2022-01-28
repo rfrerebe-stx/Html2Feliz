@@ -274,7 +274,7 @@ let navbar =
             Bulma.navbarEnd.div [
                 Bulma.navbarItem.div [
                     Html.a [
-                        prop.href "https://github.com/ThisFunctionalTom/Xml2Feliz"
+                        prop.href "https://github.com/ThisFunctionalTom/Html2Feliz"
                         prop.children [
                             Bulma.icon [
                                 size.isSize2

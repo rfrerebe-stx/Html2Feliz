@@ -3,7 +3,7 @@
   "isRoot": true,
   "tools": {
     "femto": {
-      "version": "0.8.7",
+      "version": "0.12.0",
       "commands": [
         "femto"
       ]
@@ -15,9 +15,15 @@
       ]
     },
     "fable": {
-      "version": "3.2.11",
+      "version": "3.6.3",
       "commands": [
         "fable"
+      ]
+    },
+    "dotnet-outdated": {
+      "version": "2.11.0",
+      "commands": [
+        "dotnet-outdated"
       ]
     }
   }
